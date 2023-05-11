@@ -1,1 +1,1 @@
-khircuit.github.io
+[Khircuit Works](https://khircuit.com)
